@@ -7,3 +7,4 @@ data class Contact(
     var address:String,
     var image:String
 )
+
